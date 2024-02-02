@@ -64,3 +64,10 @@ what is middelware?
 what is front end? 
 hwo do you do designs? 
 how do you maintain cod equlaity? 
+
+how do you handle stress? 
+
+we want to pick our tech - ios or android or cross - flutter
+Flutter Setup: The team installs Flutter and configures it for both Android and iOS development, ensuring that the Dart SDK (which comes bundled with Flutter) is also set up.
+Python and Django Setup: They set up a Python development environment, install Django, and create a new Django project to serve as the backend API.
+PostgreSQL Setup: PostgreSQL is installed and configured. A new database is created for the app, and the necessary connections between Django and the database are established using Django's ORM.
