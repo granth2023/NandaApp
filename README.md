@@ -31,3 +31,6 @@ Build:
 * What does maintanence look like? 
 * What is the goal? 
 * What is your timeline? 
+* what tech would oyu want to deploy on? 
+* AWS? 
+* App store? 
