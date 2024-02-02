@@ -38,3 +38,6 @@ Build:
 * Do you know what you want it to look like? 
 
 Figma 
+
+React Native --> I know react so 
+Node JS 
