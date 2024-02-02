@@ -34,3 +34,4 @@ Build:
 * what tech would oyu want to deploy on? 
 * AWS? 
 * App store? 
+* How far in the project or process are you? 
