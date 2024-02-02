@@ -188,3 +188,28 @@ Data Privacy and Ethics: Implement these algorithms with a strong commitment to 
 Continuous Learning and Adaptation
 Model Retraining: Regularly update the machine learning models with new data to reflect evolving user preferences and behaviors. This might involve automated pipelines for periodic retraining and deployment.
 A/B Testing: Continuously test algorithm changes with subsets of users to measure impact on user satisfaction and engagement. Use these insights to iterate on and improve the algorithms.
+
+
+Process:
+
+identify the core features - 
+
+define the algorithimic goals 
+
+
+then we would do model definition and set up strucutres that allow for filtering, real time messaging 
+
+
+-- come up with algorithimic outcomes that are reflected in design interfaces -- lists of matches, recommendations, chat interfaces. 
+
+-- testing testing testing
+
+concept and planning - 1-2 weeks
+backend set up -4 weeks
+front end  6 weeks
+testing - 3 weeks
+iteration and enhancment - 8 weeks 
+final testing - 3 weeks
+launch and post luaunch 1-2 weeks 
+
+7 months
