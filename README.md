@@ -57,3 +57,5 @@ What would you first?
 what's your process? 
 Are you good? 
 have you used ios before? 
+how long would this take? 
+what is the process? how long will it take? 
