@@ -41,3 +41,7 @@ Figma
 
 React Native --> I know react so 
 Node JS 
+
+-- what's your work style? 
+
+-- questions to me: 
