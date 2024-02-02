@@ -55,3 +55,5 @@ Do you like this idea?
 how would you improve it? 
 What would you first? 
 what's your process? 
+Are you good? 
+have you used ios before? 
