@@ -7,8 +7,11 @@ scalable?
 
 process: 
 
-Wireframes + Proposal -> 
+PreBuild: 
+Research + Wireframes + Proposal -> 
 
+
+Build: 
 -> Database: 
     * CRUD
     * Authentication
@@ -22,4 +25,6 @@ Wireframes + Proposal ->
     *connection strings 
     *testing
     *styling
+    * deployment
 
+* What is our MVP? 
