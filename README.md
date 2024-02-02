@@ -59,3 +59,8 @@ Are you good?
 have you used ios before? 
 how long would this take? 
 what is the process? how long will it take? 
+what is a database? 
+what is middelware? 
+what is front end? 
+hwo do you do designs? 
+how do you maintain cod equlaity? 
