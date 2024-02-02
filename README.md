@@ -28,3 +28,5 @@ Build:
     * deployment
 
 * What is our MVP? 
+* What does maintanence look like? 
+* What is the goal? 
