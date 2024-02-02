@@ -35,3 +35,4 @@ Build:
 * AWS? 
 * App store? 
 * How far in the project or process are you? 
+* Do you know what you want it to look like? 
