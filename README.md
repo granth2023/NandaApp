@@ -30,3 +30,4 @@ Build:
 * What is our MVP? 
 * What does maintanence look like? 
 * What is the goal? 
+* What is your timeline? 
