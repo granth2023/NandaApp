@@ -44,4 +44,14 @@ Node JS
 
 -- what's your work style? 
 
--- questions to me: 
+-- questions to me: how quickly could you do this? 
+Are you ready ? 
+what tech stack? 
+what would be the hardest part? 
+how do you like to communicate? 
+what's your biggest weakness? 
+what's your greatest strength? 
+Do you like this idea? 
+how would you improve it? 
+What would you first? 
+what's your process? 
