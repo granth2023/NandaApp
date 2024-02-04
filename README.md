@@ -213,3 +213,105 @@ final testing - 3 weeks
 launch and post luaunch 1-2 weeks 
 
 7 months
+
+
+client-- server 
+
+next steps? 
+
+NANDY: attorney --> was in finacne 
+
+community builder --> hosting on tiktok on instagram --> 
+
+--> moved to US 10 eyars ago
+
+rebuilding --> 
+
+idea --> friend finding app! 
+--> event discovery 
+
+what's going on aroudn you--> restaruants, cafe, and people who 
+
+bumble bff 0--> ritiaul, you have to go do this thing you dont want to do before you get to do what
+
+not a tehcnical foudner --> 
+
+basically --> bootstrap
+
+havne't been an mvp 
+
+internationally --> 
+
+pretty expesnive
+
+layoff money --> 
+
+50 
+
+not sure right team
+
+upwork
+
+landing page --> 
+
+robbery --> 
+
+n
+
+wondering
+
+austin
+
+students
+buildign portofolio
+
+full stack
+
+mostly
+
+intially--> use differnet api 
+
+and pull events from different places
+
+not event app
+
+pulling apis
+
+prototype
+
+
+different preferences: match to restaurants etc and match with people 
+
+and match with compablity 
+
+givent he point that I'm at --> 4 oro 5 different people coming on to be co foudners --> landing page, default 250K to get mvp 
+
+--> 
+
+hire someone out my pocket --> 
+
+--> 
+
+--> 
+
+--> 
+
+--> 
+
+hire someone 
+
+--> investor deck --> 
+
+--> 
+-->
+
+--> raise money to get that done 
+
+--> --> 
+
+after these calls you 
+
+text me 
+
+dont give up your price too fast
+//sent resume 
